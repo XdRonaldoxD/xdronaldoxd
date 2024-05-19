@@ -1,7 +1,10 @@
 ## Hola! Soy Ronaldo un Full Stack Developer
--Tengo 27 años,me gusta los los gatos y perros
-,me gusta realizar actividad fisica
-,Me gusta salir a pesear
-,Tengo experiencia en el campo web
-## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+Soy un desarrollador Full Stack, con Bachiller en la carrera de Ingeniería Informática. Desarrollé un CRM
+que aumentó la eficiencia operativa en un 30% para una empresa de veterinaria en Chile tengo experiencia
+en la creación de herramientas basadas en los requisitos comerciales y las experiencias delos usuarios. Me
+apasiona el continuo aprendizaje de nuevas tecnologías y que mi trabajo logre un impacto positivo.Tengo
+experiencia desarrollando Backend con Laravel, php, JavaScript y también conozco el flujo de trabajo de la
+parte del Front con Angular.
+A menudo estoy estudiando y practicando para mejorar mis habilidades técnicas como también conmis
+habilidades blandas.
+III.- ESTUDIOS REALIZ
