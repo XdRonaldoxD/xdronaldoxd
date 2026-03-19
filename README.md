@@ -9,8 +9,9 @@ responsivas y orientadas a la experiencia del usuario.
 Además, poseo sólidos conocimientos en bases de datos como MySQL, PostgreSQL y SQL
 Server, realizando diseño de esquemas, consultas complejas y optimización del rendimiento de
 los sistemas. Me desenvuelvo en entornos de trabajo ágiles bajo metodología Scrum, utilizando
-herramientas como Git, GitLab, Bitbucket y Jira para la gestión de proyectos y control de
-versiones.
+herramientas como Git, GitLab, Bitbucket y Jira para la gestión de proyectos así como Azure
+DevOps para la integración continua, despliegue y seguimiento de tareas dentro de los proyectos
+ágiles.
 Me caracterizo por ser una persona proactiva, orientada a la resolución de problemas y a la mejora
 continua, enfocándome en desarrollar soluciones eficientes que aporten valor real a cada
 proyecto.
